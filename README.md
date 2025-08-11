@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Vaish and I am a finance and CS major at NYU. I am learning to build fun projects and get my technical skills up to far
+My name is Vaish and I am a finance and CS major at NYU. I started building a year ago or so. This is what I have so far
 
-- 👷‍♂️ So far, I have built projects in HTML, CSS, and basic JS to make interactive websites. I have also used Python and the Viam SDK to build robotics projects. Not seen here is my code in C and Java
-- 🌱 I am working on learning React Native to deploy mobile apps. I am also working on NLP research projects, specifically a project on terminology extraction.
+- 👷‍♂️ So far, I have built projects full stack Android apps and set up express servers using Node. I have also used YAKE and tokenization to run keyword extraction for news articles. I have mainly used python, JS, and dart. I started a year ago with HTML and CSS, and its only up from there
+- 🌱 I am working towards using pytorch to build ML models, coming soon...
 - 📫 Email me @ vaishnavi.suresh@stern.nyu.edu
 
